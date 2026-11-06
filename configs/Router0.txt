@@ -64,7 +64,6 @@ interface FastEthernet5/0
 router rip
  network 10.0.0.0
  network 192.168.10.0
- network 192.168.20.0
 !
 ip classless
 !
