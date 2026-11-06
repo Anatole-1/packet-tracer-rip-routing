@@ -1,6 +1,6 @@
 # Routage dynamique RIP – Cisco Packet Tracer
 
-TP réalisé à l'ESAIP : interconnexion de trois réseaux locaux à travers trois routeurs reliés en série, avec le protocole de routage dynamique **RIP** pour l'échange automatique des routes.
+Interconnexion de trois réseaux locaux à travers trois routeurs reliés en série, avec le protocole de routage dynamique **RIP** pour l'échange automatique des routes.
 
 ![Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer%208.2-1BA0D7?logo=cisco&logoColor=white)
 ![Routing](https://img.shields.io/badge/Routage-RIP-informational)
@@ -84,7 +84,3 @@ Toutes les configurations sont regroupées dans [`CONFIGURATIONS.md`](CONFIGURAT
 | [`CONFIGURATIONS.md`](CONFIGURATIONS.md) | Configuration de chaque équipement et adressage des postes, en un seul fichier |
 | [`configs/`](configs/) | Une configuration brute par équipement (`.txt`) |
 | [`images/`](images/) | Captures de la topologie |
-
-## Auteur
-
-**Anatole BERNARD** – étudiant ingénieur à l'ESAIP
